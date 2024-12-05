@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Lazaro\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(37,19): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  ConsoleApplication4.vcxproj -> C:\Users\Lazaro\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
